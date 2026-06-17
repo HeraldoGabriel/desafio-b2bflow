@@ -1,0 +1,17 @@
+#variáveis de ambiente
+.env
+
+# Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#ambiente virtual
+venv/
+env/
+.venv/
+
+#Arquivos windows
+.DS_Store
+Thumbs.db
